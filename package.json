@@ -1,0 +1,15 @@
+{
+  "name": "currifyjs",
+  "version": "0.0.1",
+  "description": "Modern and mini currify implementation",
+  "main": "currify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SunHuawei/currify.git"
+  },
+  "author": "SunHuawei",
+  "license": "MIT"
+}
