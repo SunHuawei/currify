@@ -4,7 +4,9 @@ Modern and mini currify implementation
 
 # Install
 
+```bash
 npm i currifyjs
+```
 
 # Usage
 
